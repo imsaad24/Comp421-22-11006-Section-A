@@ -1,0 +1,6 @@
+The following tests were run on the website ttp://testphp.vulnweb.com/artists.php?artist=1 
+
+Number of database found = 2
+Tables found in a database
+coulmns found in a table
+found username and a password
